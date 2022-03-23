@@ -1,0 +1,36 @@
+#titulo{
+	padding: 100px;
+	font-family: monospace;
+}
+
+ol{
+	list-style: none;
+	margin-top: -100px;
+	margin-left: 88px;
+	padding: 10px;
+	font-family:monospace;
+	font-style: italic;
+}
+
+body{
+	background-image: url(./images/backgorund.png);
+	background-repeat: no-repeat;
+
+}
+
+.insta{
+	margin-top: -10px;
+
+}
+
+.twitter{
+	margin-top: 10px;
+}
+
+.youtube{
+	margin-top: 10px;
+}
+
+img{
+	width: 20px;
+}

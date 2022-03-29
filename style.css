@@ -1,36 +1,28 @@
-#titulo{
-	padding: 100px;
-	font-family: monospace;
-}
-
-ol{
-	list-style: none;
-	margin-top: -100px;
-	margin-left: 88px;
-	padding: 10px;
-	font-family:monospace;
-	font-style: italic;
-}
-
 body{
-	background-image: url(./images/backgorund.png);
-	background-repeat: no-repeat;
-
+    background-color: black;
 }
 
-.insta{
-	margin-top: -10px;
-
+.cartao{
+    background: url(../assets/background.png) no-repeat;
+    font-family: monospace;
+    width: 400px;
+    height: 200px;
+    background-size: cover;
+    padding: 1px 20px;
+    margin: auto;
+    margin-top: 10%;
+    box-sizing: border-box;
 }
-
+a{
+    text-decoration: none;
+    color: black;
+}
+.instagram{
+    list-style-image: url(../assets/Insta.png);
+}
 .twitter{
-	margin-top: 10px;
+    list-style-image: url(../assets/linkedin.png.png);   
 }
-
 .youtube{
-	margin-top: 10px;
-}
-
-img{
-	width: 20px;
+    list-style-image: url(../assets/gmail.png.png);
 }

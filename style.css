@@ -3,7 +3,7 @@ body{
 }
 
 .cartao{
-    background: url(../images/background.png) no-repeat;
+    background: url(./images/background.png) no-repeat;
     font-family: monospace;
     width: 400px;
     height: 200px;
@@ -18,11 +18,11 @@ a{
     color: black;
 }
 .instagram{
-    list-style-image: url(../images/Insta.png);
+    list-style-image: url(./images/Insta.png);
 }
 .twitter{
-    list-style-image: url(../images/linkedin.png.png);   
+    list-style-image: url(./images/linkedin.png.png);   
 }
 .youtube{
-    list-style-image: url(../images/gmail.png.png);
+    list-style-image: url(./images/gmail.png.png);
 }
